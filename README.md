@@ -32,3 +32,10 @@ This is an Arduino project that cycles through a sequence of 8 LEDs, allowing th
 |-------|----------------|
 | D3    | Push button input |
 | D6–D13| LEDs            |
+
+
+
+Example Video: 
+
+https://github.com/user-attachments/assets/6002b4db-fdf9-4da8-a843-0dcb063b2884
+
